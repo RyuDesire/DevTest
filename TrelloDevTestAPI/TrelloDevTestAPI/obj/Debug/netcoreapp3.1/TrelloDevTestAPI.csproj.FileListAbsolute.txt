@@ -47,3 +47,14 @@ C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\bin\Debug\netcoreapp3.1\ru
 C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\obj\Debug\netcoreapp3.1\TrelloDevTestAPI.csproj.CopyComplete
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\bin\Debug\netcoreapp3.1\TrelloDevTestAPI.deps.json
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\bin\Debug\netcoreapp3.1\TrelloDevTestAPI.runtimeconfig.json
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\bin\Debug\netcoreapp3.1\TrelloDevTestAPI.runtimeconfig.dev.json
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\bin\Debug\netcoreapp3.1\TrelloDevTestAPI.dll
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\bin\Debug\netcoreapp3.1\TrelloDevTestAPI.pdb
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\obj\Debug\netcoreapp3.1\TrelloDevTestAPI.csproj.CoreCompileInputs.cache
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\obj\Debug\netcoreapp3.1\TrelloDevTestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\obj\Debug\netcoreapp3.1\TrelloDevTestAPI.dll
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\obj\Debug\netcoreapp3.1\TrelloDevTestAPI.pdb
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\obj\Debug\netcoreapp3.1\TrelloDevTestAPI.genruntimeconfig.cache

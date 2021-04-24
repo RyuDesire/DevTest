@@ -9,9 +9,9 @@ namespace TrelloDevTestAPI.Repositories
     public interface IHistoricalSearchRepository
     {
         Task<IEnumerable<HistoricalSearch>> Get();
-        Task<HistoricalSearch> Get(int id);
+        Task<HistoricalSearch> Get(string id);
         Task<HistoricalSearch> Create(HistoricalSearch history);
-        Task<HistoricalSearch> Update(HistoricalSearch history);
+        Task Update(HistoricalSearch history);
         Task Delete(int id);
     }
 }

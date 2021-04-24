@@ -34,7 +34,7 @@ namespace TrelloDevTestAPI.Repositories
             return await _context.History.ToListAsync();
         }
 
-        public async Task<HistoricalSearch> Get(int id)
+        public async Task<HistoricalSearch> Get(string id)
         {
             return await _context.History.FindAsync(id);
         }
