@@ -1,0 +1,10 @@
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\bin\Debug\netcoreapp3.1\TrelloDevTestAPI.exe
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\obj\Debug\netcoreapp3.1\TrelloDevTestAPI.csprojAssemblyReference.cache
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\obj\Debug\netcoreapp3.1\TrelloDevTestAPI.AssemblyInfoInputs.cache
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\obj\Debug\netcoreapp3.1\TrelloDevTestAPI.AssemblyInfo.cs
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\obj\Debug\netcoreapp3.1\TrelloDevTestAPI.RazorTargetAssemblyInfo.cache
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\obj\Debug\netcoreapp3.1\staticwebassets\TrelloDevTestAPI.StaticWebAssets.Manifest.cache
+C:\Jalasoft\DevTest\TrelloDevTestAPI\TrelloDevTestAPI\obj\Debug\netcoreapp3.1\staticwebassets\TrelloDevTestAPI.StaticWebAssets.xml
