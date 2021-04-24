@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BOkwGFfjLTnHOfX1X8M4LT8jq4tNwqseR5GwZIEzuafonHbk9R0fJQst5zYTUf+b/sh2fkXkPYgAjeikbvyw3Q==",
+  "dgSpecHash": "aS9LPAHslUYj9jyYk3+C+o8OTEcpiHXzzpC2r4rgUwO6LDsv2JXHDPri78Y63IBnaxu+BYDs/O06F4jfGre1JQ==",
   "success": true,
   "projectFilePath": "C:\\Jalasoft\\DevTest\\TrelloDevTestAPI\\TrelloDevTestAPI\\TrelloDevTestAPI.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
